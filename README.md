@@ -1,10 +1,3 @@
-# Hi there, I'm Mehboob Alam 👋
-
-**Turning ideas into interactive magic (with a side of AI)**  
-*Full Stack Dev @ Xavinex | GDGoC Crew Member | Gen AI Explorer*
-
----
-
 Welcome to my GitHub! I’m passionate about building web experiences that combine creativity with cutting-edge technology, and I love experimenting with new ideas—especially in the world of AI.
 
 ---
@@ -27,11 +20,11 @@ If any of that resonates—let’s connect. Maybe we’ll build something amazin
 
 ## 🛠️ Tech I Work With
 
-- **Languages**: JavaScript, Django, Python  
+- **Languages**: JavaScript, Python ,C++ 
 - **Frontend**: React.js, Next.js, TailwindCSS, HTML, CSS  
-- **Backend**: Node.js, Ruby on Rails  
+- **Backend**: Node.js,Django  
 - **Databases**: MongoDB, MySQL  
-- **Cloud & Tools**: Firebase, AWS, Docker, Git, Nginx  
+- **Cloud & Tools**: Firebase, AWS, Docker, Git
 - **AI**: OpenAI API, Generative AI tools, AI automation workflows
 
 ---
