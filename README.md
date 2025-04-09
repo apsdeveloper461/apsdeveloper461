@@ -1,7 +1,5 @@
 Welcome to my GitHub! I’m passionate about building web experiences that combine creativity with cutting-edge technology, and I love experimenting with new ideas—especially in the world of AI.
 
----
-
 ## 🚀 About Me
 
 My journey into web development started a little over three years ago, and it’s been a wild, rewarding ride ever since. What began as a curiosity quickly turned into a passion for turning ideas into interactive, scalable web experiences.
@@ -16,7 +14,6 @@ Right now, I’m working as a **Full Stack Developer at Xavinex**, part of the a
 
 If any of that resonates—let’s connect. Maybe we’ll build something amazing together. ✨
 
----
 
 ## 🛠️ Tech I Work With
 
@@ -26,8 +23,6 @@ If any of that resonates—let’s connect. Maybe we’ll build something amazin
 - **Databases**: MongoDB, MySQL  
 - **Cloud & Tools**: Firebase, AWS, Docker, Git
 - **AI**: OpenAI API, Generative AI tools, AI automation workflows
-
----
 
 ## 📊 GitHub Stats
 
@@ -41,7 +36,5 @@ If any of that resonates—let’s connect. Maybe we’ll build something amazin
 
 - [LinkedIn](https://www.linkedin.com/in/mehboob-alam-3999822b3/)
 - [Personal Website](http://mehboobalam.vercel.app/)
-
----
 
 Thanks for stopping by! Let’s turn some ideas into code. 🚀
