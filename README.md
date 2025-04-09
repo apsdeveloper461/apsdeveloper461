@@ -2,17 +2,13 @@ Welcome to my GitHub! I’m passionate about building web experiences that combi
 
 ## 🚀 About Me
 
-My journey into web development started a little over three years ago, and it’s been a wild, rewarding ride ever since. What began as a curiosity quickly turned into a passion for turning ideas into interactive, scalable web experiences.
+I started my web dev journey over three years ago, and it's been an exciting ride ever since. From tinkering with Django and Node.js on the backend to crafting sleek, dynamic UIs with React.js and Next.js, I’ve loved turning ideas into scalable, real-world solutions.
 
-I first got my hands dirty with back-end development using **Django** and **Node.js**, then found my flow building sleek, dynamic front-ends with **React.js** and **Next.js**. Over time, I’ve worked with databases like **MongoDB** and **MySQL**—always focused on creating solutions that actually make a difference for real users.
+Lately, I’ve been exploring the world of AI, diving into automation and Generative AI—not just to keep up with trends, but to push boundaries and reimagine user experiences.
 
-But I’m not just here to build what’s already been built.
+Currently building full stack at Xavinex, collaborating with the awesome GDGoC Crew, and always looking to blend code with creativity.
 
-Lately, I’ve been diving into the exciting world of **AI**—especially **AI automation** and **Generative AI**. It’s more than just keeping up with trends; it’s about pushing boundaries and reimagining what’s possible online. I’m fascinated by how intelligent systems can transform user experiences—making them more intuitive, personalized, and honestly, kind of magical.
-
-Right now, I’m working as a **Full Stack Developer at Xavinex**, part of the awesome **GDGoC Crew**, and constantly inspired by where tech is headed. Whether I’m building clean, efficient systems or experimenting with creative, AI-driven ideas, I’m always chasing that moment when code meets creativity.
-
-If any of that resonates—let’s connect. Maybe we’ll build something amazing together. ✨
+Let’s connect and maybe build something magical. ✨
 
 
 ## 🛠️ Tech I Work With
