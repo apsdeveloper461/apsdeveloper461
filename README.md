@@ -38,8 +38,8 @@ If any of that resonates—let’s connect. Maybe we’ll build something amazin
 
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apsdeveloper461&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apsdeveloper461&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apsdeveloper461&show_icons=true&theme=dark)
 
 
 ---
