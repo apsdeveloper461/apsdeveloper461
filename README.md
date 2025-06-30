@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines;+👨‍💻;Full+Stack+Dev+%7C+AI+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey!+I'm+Mehboob+Alam+👨‍💻;Creative+Technologist+%7C+AI+Explorer" alt="Typing SVG" />
 </p>
 
 ---
