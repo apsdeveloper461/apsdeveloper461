@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey!+I'm+Mehboob+Alam+👨‍💻;Creative+Technologist+%7C+AI+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hey!+I'm+Mehboob+Alam+👨‍💻;Full+Stack+Developer;Gen+AI+Explorer" alt="Typing SVG" />
 </p>
 
 ---
@@ -38,29 +38,21 @@ Hey there! I'm **Mehboob Alam**, a creative problem solver who loves building do
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apsdeveloper461&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apsdeveloper461&theme=tokyonight&border_radius=10" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apsdeveloper461&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apsdeveloper461&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" height="200px" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apsdeveloper461&theme=tokyonight&border_radius=10" width="47%" height="200px" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=apsdeveloper461&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apsdeveloper461&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apsdeveloper461&theme=tokyonight" width="47%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apsdeveloper461&theme=tokyonight" width="47%" />
-</p>
-
 ---
 
-### 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/apsdeveloper461/apsdeveloper461/output/github-contribution-grid-snake.svg" alt="snake eating contributions" />
-</p>
-
----
 
 ## 🔗 Let’s Connect
 
